@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0038-count-and-say) |
 | [0812-rotate-string](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0812-rotate-string) |
 ## String Matching
 |  |
