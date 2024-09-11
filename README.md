@@ -63,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0735-asteroid-collision) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
