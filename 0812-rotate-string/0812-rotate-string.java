@@ -2,9 +2,7 @@ class Solution
 {
     public boolean rotateString(String s, String goal) 
     {
-        String total = "";
-        if(goal.length()==s.length())
-           total = s+s;
-        return total.contains(goal);
+        return s.length()==goal.length() &&
+               (s+s).contains(goal);
     }
 }
