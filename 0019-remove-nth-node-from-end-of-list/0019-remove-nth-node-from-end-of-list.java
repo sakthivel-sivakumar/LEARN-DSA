@@ -10,24 +10,24 @@
  */
 class Solution 
 {
-    public ListNode removeNthFromEnd(ListNode head, int n) {
-    
-    ListNode start = new ListNode(0);
-    ListNode slow = start, fast = start;
-    slow.next = head;
-    
-    //Move fast in front so that the gap between slow and fast becomes n
-    for(int i=1; i<=n+1; i++)   
+    public ListNode removeNthFromEnd(ListNode head, int n) 
     {
-        fast = fast.next;
+        ListNode left = head;
+        ListNode right = head;
+
+        // Move the right pointer n steps ahead to maintain the distance b/w 2 pointers
+        for(int i=1;i<=n;i++)
+            right = right.next;
+
+        if (right == null)
+            return head.next;
+            
+        while(right.next!=null)
+        {
+            left = left.next;
+            right = right.next;
+        }
+        left.next = left.next.next;
+        return head;
     }
-    //Move fast to the end, maintaining the gap
-    while(fast != null) {
-        slow = slow.next;
-        fast = fast.next;
-    }
-    //Skip the desired node
-    slow.next = slow.next.next;
-    return start.next;
-}
 }
