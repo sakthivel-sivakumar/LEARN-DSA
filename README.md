@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0231-power-of-two) |
 | [1086-divisor-game](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1086-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1086-divisor-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
