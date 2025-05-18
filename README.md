@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0229-majority-element-ii) |
 | [0735-asteroid-collision](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
@@ -110,5 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0229-majority-element-ii) |
 | [1500-count-largest-group](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1500-count-largest-group) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
