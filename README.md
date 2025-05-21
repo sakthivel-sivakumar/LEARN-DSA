@@ -45,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
