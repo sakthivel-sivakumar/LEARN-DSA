@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0125-valid-palindrome) |
 | [0812-rotate-string](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0812-rotate-string) |
 ## String Matching
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
