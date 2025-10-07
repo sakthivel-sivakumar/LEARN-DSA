@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0820-find-eventual-safe-states](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0820-find-eventual-safe-states) |
 | [1035-cousins-in-binary-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0820-find-eventual-safe-states](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0820-find-eventual-safe-states) |
 | [1035-cousins-in-binary-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1073-number-of-enclaves) |
 ## Union Find
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0820-find-eventual-safe-states) |
 ## Linked List
 |  |
 | ------- |
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1073-number-of-enclaves) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
