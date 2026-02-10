@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0812-rotate-string) |
 ## String Matching
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0904-fruit-into-baskets) |
 | [1500-count-largest-group](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1500-count-largest-group) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
