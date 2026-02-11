@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0136-single-number) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0229-majority-element-ii) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
 | [0766-toeplitz-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0766-toeplitz-matrix) |
