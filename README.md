@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0229-majority-element-ii) |
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0242-valid-anagram) |
@@ -181,11 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0229-majority-element-ii) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Monotonic Stack
@@ -216,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
