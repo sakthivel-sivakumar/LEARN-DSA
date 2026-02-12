@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
 | [0735-asteroid-collision](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0766-toeplitz-matrix) |
 | [0904-fruit-into-baskets](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0904-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0943-sum-of-subarray-minimums) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0943-sum-of-subarray-minimums) |
 ## Matrix
 |  |
