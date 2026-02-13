@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
 | [0735-asteroid-collision](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0735-asteroid-collision) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0268-missing-number) |
 | [1086-divisor-game](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1086-divisor-game) |
 | [1500-count-largest-group](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1500-count-largest-group) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0904-fruit-into-baskets) |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
@@ -254,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Design
 |  |
