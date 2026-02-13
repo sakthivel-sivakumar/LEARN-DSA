@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0796-rotate-string) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0739-daily-temperatures) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0231-power-of-two) |
 | [1086-divisor-game](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1086-divisor-game) |
 | [1500-count-largest-group](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1500-count-largest-group) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
