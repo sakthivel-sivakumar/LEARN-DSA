@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0205-isomorphic-strings) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0735-asteroid-collision) |
