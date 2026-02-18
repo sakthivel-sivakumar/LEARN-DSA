@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1073-number-of-enclaves) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1929-concatenation-of-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1929-concatenation-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Stack
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
