@@ -9,9 +9,7 @@ class Solution {
          {
             for(int j=0;j<c;j++)
             {
-                if(i == j)
-                    sum = sum + arr[i][j];
-                else if(i+j == c-1)
+                if(i == j  || (i+j == c-1) )
                     sum = sum + arr[i][j];
             }
          }
