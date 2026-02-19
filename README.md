@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0130-surrounded-regions) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0231-power-of-two) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
 | [0766-toeplitz-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0766-toeplitz-matrix) |
