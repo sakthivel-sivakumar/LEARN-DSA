@@ -1,13 +1,10 @@
 class Solution(object):
     def mergeAdjacent(self, nums):
         stack = []
-        
-        for i in nums:
-            val = i
-            
-            while stack and stack[-1] == val:
-                val = stack.pop() + val
-            
-            stack.append(val)
-        
+        for num in nums:
+            while stack and stack[-1] == num:
+                num += stack.pop()
+            stack.append(num)
+
         return stack
+        
