@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [3834-merge-adjacent-equal-elements](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/3834-merge-adjacent-equal-elements) |
 ## Stack
 |  |
 | ------- |
@@ -167,12 +168,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3834-merge-adjacent-equal-elements](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/3834-merge-adjacent-equal-elements) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3834-merge-adjacent-equal-elements](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/3834-merge-adjacent-equal-elements) |
 ## Math
 |  |
 | ------- |
