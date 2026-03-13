@@ -9,10 +9,9 @@ class Solution {
         for(int i=0;i<n;i++){
 
             char ch = s.charAt(i);
-            while(hm.containsKey(ch))
-            {
-                hm.remove(s.charAt(j));
-                j++;
+            if(hm.containsKey(ch))
+            {     
+               j = Math.max(j, hm.get(ch) + 1);
             }
             hm.put(ch,i);
             curr_len = i - j + 1;
