@@ -9,17 +9,12 @@ class Solution {
         for(int i=0;i<n;i++){
 
             char ch = s.charAt(i);
-            if(!hm.containsKey(ch)){
-                hm.put(ch,i);
+            while(hm.containsKey(ch))
+            {
+                hm.remove(s.charAt(j));
+                j++;
             }
-            else{
-                while(hm.containsKey(ch))
-                {
-                    hm.remove(s.charAt(j));
-                    j++;
-                }
-                hm.put(ch,i);
-            }
+            hm.put(ch,i);
             curr_len = i - j + 1;
             max_len = Math.max(max_len,curr_len);
         }
