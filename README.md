@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
