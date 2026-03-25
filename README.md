@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1816-truncate-sentence](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1929-concatenation-of-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0445-add-two-numbers-ii) |
 | [1086-divisor-game](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1086-divisor-game) |
 | [1500-count-largest-group](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1500-count-largest-group) |
+| [1512-number-of-good-pairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1512-number-of-good-pairs) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Dynamic Programming
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1500-count-largest-group) |
+| [1512-number-of-good-pairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Sorting
 |  |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0229-majority-element-ii) |
+| [1512-number-of-good-pairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Monotonic Stack
 |  |
