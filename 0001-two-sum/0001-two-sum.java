@@ -3,9 +3,9 @@ class Solution {
         int n = a.length;
         for(int i=0;i<n;i++) 
 		{
-			for(int j=i+1;j<n;j++) 
+			for(int j=0;j<n;j++) 
 			{
-				if(a[i]+a[j] == t)
+				if(i!=j && a[i]+a[j] == t)
                 return new int[]{i,j};
 			}
 			
