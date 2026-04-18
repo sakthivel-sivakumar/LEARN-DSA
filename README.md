@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0739-daily-temperatures) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0098-validate-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
