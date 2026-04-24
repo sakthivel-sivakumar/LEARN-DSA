@@ -6,12 +6,12 @@ class Solution {
 		{
 			for(int j=0;j<n;j++) 
 			{
-				if(i!=j&&a[i]==a[j]*2){
-                    return true;
-                }
+			if(i!=j && a[i]==2*a[j])
+            return true;
 			}
 			
 		}
         return false;
+       
     }
 }
