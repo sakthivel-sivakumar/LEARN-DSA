@@ -1,16 +1,17 @@
 class Solution {
-    public boolean checkIfExist(int[] a) {
+    public boolean checkIfExist(int[] arr) {
 
-        int n = a.length;
-        for(int i=0;i<n;i++) 
-		{
-			for(int j=0;j<n;j++) 
-			{
-			if(i!=j && a[i]==2*a[j])
-            return true;
-			}
-			
-		}
+        int n = arr.length;
+        for(int i=0;i<n;i++) {
+            
+            for(int j=i+1;j<n;j++) {
+                if(arr[i] == 2*arr[j] || 
+                  arr[j] == 2*arr[i] ){
+                    return true;
+                }
+            }   
+        }
+
         return false;
        
     }
