@@ -2,7 +2,7 @@ class Solution {
     public int[] replaceElements(int[] arr) {
 
         int  n = arr.length;
-        int res[] =new int[n];
+        
 
         for(int i=0;i<n;i++)
         {
@@ -13,10 +13,10 @@ class Solution {
                 max = arr[j];
             }
 
-            res[i] = max;
+            arr[i] = max;
         }
-
-        return res;
+        // arr[n-1]  = max;
+        return arr;
 
 
 
