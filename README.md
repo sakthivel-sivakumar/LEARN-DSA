@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0445-add-two-numbers-ii) |
 | [1086-divisor-game](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1086-divisor-game) |
+| [1323-maximum-69-number](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1323-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1500-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1512-number-of-good-pairs) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0011-container-with-most-water) |
+| [1323-maximum-69-number](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1323-maximum-69-number) |
 ## Binary Search Tree
 |  |
 | ------- |
