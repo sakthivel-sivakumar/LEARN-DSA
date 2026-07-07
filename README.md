@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0130-surrounded-regions) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0217-contains-duplicate) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
 | [0766-toeplitz-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0766-toeplitz-matrix) |
