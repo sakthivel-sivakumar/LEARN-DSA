@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1816-truncate-sentence](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String Matching
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1500-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Sorting
 |  |
