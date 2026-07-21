@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## String Matching
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Database
 |  |
 | ------- |
