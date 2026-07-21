@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Number Theory
 |  |
