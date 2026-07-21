@@ -3,37 +3,36 @@ class Solution {
 
         HashMap<Integer, Integer> map = new HashMap<>();
 
+        int left = 0;
         long sum = 0;
         long ans = 0;
 
-        // First window
-        for (int i = 0; i < k; i++) {
-            sum += nums[i];
-            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
-        }
+        for (int right = 0; right < nums.length; right++) {
 
-        if (map.size() == k)
-            ans = sum;
+            // Step 1 : Add Incoming Element
+            sum += nums[right];
+            map.put(nums[right], map.getOrDefault(nums[right], 0) + 1);
 
-        // Slide the window
-        for (int i = k; i < nums.length; i++) {
+            // Step 2 : Check Window Size
+            if (right - left + 1 == k) {
 
-            // Remove outgoing element
-            int out = nums[i - k];
-            sum -= out;
+                // Step 3 : Process Current Window
+                if (map.size() == k) {
+                    ans = Math.max(ans, sum);
+                }
 
-            map.put(out, map.get(out) - 1);
-            if (map.get(out) == 0)
-                map.remove(out);
+                // Step 4 : Remove Outgoing Element
+                sum -= nums[left];
 
-            // Add incoming element
-            int in = nums[i];
-            sum += in;
-            map.put(in, map.getOrDefault(in, 0) + 1);
+                map.put(nums[left], map.get(nums[left]) - 1);
 
-            // Check validity
-            if (map.size() == k)
-                ans = Math.max(ans, sum);
+                if (map.get(nums[left]) == 0) {
+                    map.remove(nums[left]);
+                }
+
+                // Step 5 : Slide Window
+                left++;
+            }
         }
 
         return ans;
