@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1929-concatenation-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2460-apply-operations-to-an-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2460-apply-operations-to-an-array) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
