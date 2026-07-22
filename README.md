@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1748-sum-of-unique-elements](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1929-concatenation-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1500-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1748-sum-of-unique-elements) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Monotonic Stack
 |  |
