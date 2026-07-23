@@ -9,6 +9,7 @@ class Solution {
             if(tokens[left] <= power){
                 power-=tokens[left];
                 score++;
+                maxScore = Math.max(score,maxScore);
                 left++;
             }
             // face-down
@@ -20,7 +21,7 @@ class Solution {
             else
                 break;
             
-            maxScore = Math.max(score,maxScore);
+            
         }
 
 
