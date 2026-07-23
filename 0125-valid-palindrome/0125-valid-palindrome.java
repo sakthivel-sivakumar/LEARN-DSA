@@ -1,20 +1,32 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        int len = s.length();
-        s=s.toLowerCase();
-        String rev = "";
-        String forw = "";
-        for(int i=0;i<len;i++)
+        s = s.toLowerCase();
+        int n = s.length();
+
+        int left = 0;
+        int right = n-1;
+
+        while(left < right)
         {
-            char ch = s.charAt(i);
-            if(ch>=97&&ch<=122 || ch>=48 && ch<=57){
-                forw = forw + ch;
-                rev = ch + rev;
+            char c1 = s.charAt(left); //0
+            char c2 = s.charAt(right); //p
+            boolean x = (c1>='a'&& c1<='z') ||  (c1>='0'&& c1<='9');
+            boolean y = (c2>='a'&& c2<='z') ||  (c2>='0'&& c2<='9');
+            if(x && y )
+            {
+                if(c1 != c2)
+                    return false;
+                left++; 
+                right--;
             }
-            
+            else if(x){
+                right--;
+            }
+            else
+                left++;
         }
-        if(forw.equals(rev))
-            return true;
-        return false;
+
+         return true;
+
     }
 }
