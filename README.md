@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2460-apply-operations-to-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Tree
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2460-apply-operations-to-an-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3834-merge-adjacent-equal-elements](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/3834-merge-adjacent-equal-elements) |
 ## Stack
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Design
 |  |
 | ------- |
