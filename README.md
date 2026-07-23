@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0680-valid-palindrome-ii) |
+| [0826-most-profit-assigning-work](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0826-most-profit-assigning-work) |
 | [0876-middle-of-the-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0905-sort-array-by-parity) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0766-toeplitz-matrix) |
+| [0826-most-profit-assigning-work](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0905-sort-array-by-parity) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0826-most-profit-assigning-work](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0948-bag-of-tokens) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0826-most-profit-assigning-work](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0826-most-profit-assigning-work) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Design
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0680-valid-palindrome-ii) |
+| [0826-most-profit-assigning-work](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0948-bag-of-tokens) |
 | [1323-maximum-69-number](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1323-maximum-69-number) |
