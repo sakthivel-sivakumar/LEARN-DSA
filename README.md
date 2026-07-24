@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1816-truncate-sentence](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Monotonic Stack
 |  |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Database
