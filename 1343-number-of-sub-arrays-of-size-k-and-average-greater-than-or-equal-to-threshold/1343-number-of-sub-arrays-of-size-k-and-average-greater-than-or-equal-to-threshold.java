@@ -1,25 +1,21 @@
 class Solution {
-    public int numOfSubarrays(int[] nums, int k, int threshold) {
-        int n = nums.length;
-        double sum = 0;
-        for(int i=0;i<k;i++){
-            sum += nums[i];
-        }
-
-        double avg = sum / k;
+    public int numOfSubarrays(int[] arr, int k, int threshold) {
+        int left = 0;
         int c = 0;
-        if(avg >= threshold)
-            c++;
+        int sum = 0;
 
-        for(int i=k;i<n;i++){
-            sum = sum + nums[i]-nums[i-k];
-            avg = sum / k;
-            if(avg >= threshold)
-                c++;
-            
+        for(int right = 0; right < arr.length; right++){
+            sum = sum + arr[right];
+
+            if(right - left + 1 == k){
+                int avg = sum / k;
+                if(avg >= threshold)
+                    c++;
+                sum = sum - arr[left];
+                left++;
+            }
         }
 
         return c;
-
     }
 }
