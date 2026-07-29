@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Union-Find
 |  |
 | ------- |
