@@ -1,29 +1,28 @@
 class Solution {
     public int maxScore(int[] arr, int k) {
+
         int n = arr.length;
+
         int left = 0;
-        int right = n-1;
+        int right = n - 1;
+
+        int sum = 0;
         int max = Integer.MIN_VALUE;
-        int points = 0;
 
-        for(int i=0;i<=k+k-1;i++){
-            if(i < k){
-                points += arr[left];
-                left++;
+        for (int i = 0; i < 2 * k; i++) {
+
+            if (i < k) {
+                sum += arr[left++];
+            } else {
+                sum = sum - arr[--left] + arr[right--];
             }
-            else{
-                points = points + arr[right] - arr[--left];
-                right--;
+
+            // Update only after selecting exactly k cards
+            if (i >= k - 1) {
+                max = Math.max(max, sum);
             }
-            max = Math.max(points, max);
         }
 
-        points = 0;
-        for(int i=0;i<k;i++){
-            points += arr[n-i-1];
-        }
-        max = Math.max(points, max);
-        return max;  
+        return max;
     }
 }
-
