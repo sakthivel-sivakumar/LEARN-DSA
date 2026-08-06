@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0231-power-of-two) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
@@ -460,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0451-sort-characters-by-frequency) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
