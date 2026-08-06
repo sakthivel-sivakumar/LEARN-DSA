@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -466,4 +467,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
