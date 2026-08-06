@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -475,4 +478,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0051-n-queens) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
