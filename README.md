@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0136-single-number) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0234-palindrome-linked-list) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0943-sum-of-subarray-minimums) |
 ## Matrix
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
 | [0766-toeplitz-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0766-toeplitz-matrix) |
