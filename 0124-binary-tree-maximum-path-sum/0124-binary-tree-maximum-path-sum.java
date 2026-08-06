@@ -14,25 +14,22 @@
  * }
  */
 class Solution {
-    public int maxPathSum(TreeNode root) {
-        int[] res = { root.val };
-        dfs(root, res);
-        return res[0];
+    int res = 0;
+    public int maxPathSum(TreeNode r) {
+        if(r == null) return 0;
+        this.res = r.val;
+        dfs(r);
+        return res;
     }
 
-    private int dfs(TreeNode node, int[] res) {
-        if (node == null) {
-            return 0;
-        }
+    private int dfs(TreeNode r){
+        if(r == null) return 0;
 
-        // Recursively compute the maximum sum of the left and right subtree paths.
-        int leftSum = Math.max(0, dfs(node.left, res));
-        int rightSum = Math.max(0, dfs(node.right, res));
+        int left = Math.max(dfs(r.left), 0);
+        int right = Math.max(dfs(r.right), 0);
 
-        // Update the maximum path sum encountered so far (with split).
-        res[0] = Math.max(res[0], leftSum + rightSum + node.val);
+        res = Math.max(res, left+right+r.val);
 
-        // Return the maximum sum of the path (without split).
-        return Math.max(leftSum, rightSum) + node.val;
-    }    
+        return Math.max(left, right) + r.val;
+    }
 }
