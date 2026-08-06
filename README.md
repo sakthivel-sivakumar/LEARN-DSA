@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0518-coin-change-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0392-is-subsequence) |
+| [0518-coin-change-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1086-divisor-game](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1086-divisor-game) |
@@ -502,4 +504,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
