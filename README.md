@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0766-toeplitz-matrix) |
 | [0826-most-profit-assigning-work](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0881-boats-to-save-people) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1086-divisor-game](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1086-divisor-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
