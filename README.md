@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0547-number-of-provinces) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1035-cousins-in-binary-tree) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1035-cousins-in-binary-tree) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
@@ -494,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0023-merge-k-sorted-lists) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
