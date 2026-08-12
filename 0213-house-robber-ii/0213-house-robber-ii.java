@@ -21,19 +21,21 @@ class Solution {
 
     public int robLinear(int[] nums, int start, int end) {
 
-        
-
         int[] dp = new int[nums.length];
 
-        dp[start] = nums[start];
+        int prev2 = nums[start];
 
-        dp[start + 1] = Math.max(nums[start], nums[start + 1]);
+        int prev1 = Math.max(nums[start], nums[start + 1]);
 
         for (int i = start + 2; i <= end; i++) {
 
-            dp[i] = Math.max(nums[i] + dp[i - 2], dp[i - 1]);
+            int curr = Math.max(nums[i] + prev2, prev1);
+            prev2 = prev1;
+            prev1  = curr;
+            
+           
         }
 
-        return dp[end];
+        return prev1;
     }
 }
