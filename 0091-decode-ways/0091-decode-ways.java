@@ -1,19 +1,22 @@
 class Solution {
-
-  
     public int numDecodings(String s) {
         int n = s.length();
-        int[]dp = new int[n+1];
-        dp[n] = 1;
+        
+        int next1 = 1;
+        int next2 = 0;
+
         for(int i=n-1;i>=0;i--){
 
-             if (s.charAt(i) == '0') {
-                dp[i] = 0;
+            int curr = 0;
+            if (s.charAt(i) == '0') {
+                curr = 0;
+                next2 = next1;
+                next1 = curr;
                 continue;
             }
 
             // Take one digit
-            int one = dp[i+1];
+            int one = next1;
 
             // Take two digits
             int two = 0;
@@ -23,11 +26,14 @@ class Solution {
                 int num = Integer.parseInt(s.substring(i, i + 2));
 
                 if (num >= 10 && num <= 26)
-                    two = dp[i+2];
+                    two = next2;
             }
 
-            dp[i] = one + two;
+            curr = next1 + two;
+            next2 = next1;
+            next1 = curr;
         }
-        return dp[0];
+
+        return next1;
     }
 }
