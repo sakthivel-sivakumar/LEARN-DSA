@@ -1,40 +1,40 @@
 class Solution {
 
-    public static int[] dp;
     public int numDecodings(String s) {
-        dp = new int[s.length()+1];
-        Arrays.fill(dp,-1);
-        fun(s, 0,dp);
-        return dp[0];
-    }
 
-    int fun(String s, int i,int[] dp) {
+        int n = s.length();
 
-        // Successfully reached the end
-        if (i == s.length())
-            return dp[i] = 1;
+        int[] dp = new int[n + 1];
 
-        // Cannot decode a number starting with 0
-        if (s.charAt(i) == '0')
-            return dp[i] = 0;
-        
-        if(dp[i] != -1)
-            return dp[i];
+        // Base case
+        dp[n] = 1;
 
-        // Take one digit
-        int one = fun(s, i + 1 , dp);
+        // Fill from right to left
+        for (int i = n - 1; i >= 0; i--) {
 
-        // Take two digits
-        int two = 0;
+            // Cannot decode a number starting with 0
+            if (s.charAt(i) == '0') {
+                dp[i] = 0;
+                continue;
+            }
 
-        if (i + 1 < s.length()) {
+            // Take one digit
+            int one = dp[i + 1];
 
-            int num = Integer.parseInt(s.substring(i, i + 2));
+            // Take two digits
+            int two = 0;
 
-            if (num >= 10 && num <= 26)
-                two = fun(s, i + 2, dp);
+            if (i + 1 < n) {
+
+                int num = Integer.parseInt(s.substring(i, i + 2));
+
+                if (num >= 10 && num <= 26)
+                    two = dp[i + 2];
+            }
+
+            dp[i] = one + two;
         }
 
-        return dp[i] = one + two;
+        return dp[0];
     }
 }
