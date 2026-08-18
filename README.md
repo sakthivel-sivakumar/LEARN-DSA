@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3834-merge-adjacent-equal-elements](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/3834-merge-adjacent-equal-elements) |
 ## Simulation
 |  |
