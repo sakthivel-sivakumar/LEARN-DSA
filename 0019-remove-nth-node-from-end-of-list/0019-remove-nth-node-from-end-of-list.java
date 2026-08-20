@@ -8,26 +8,31 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution 
-{
-    public ListNode removeNthFromEnd(ListNode head, int n) 
-    {
-        ListNode left = head;
-        ListNode right = head;
+class Solution {
+    public ListNode removeNthFromEnd(ListNode head, int n) {
 
-        // Move the right pointer n steps ahead to maintain the distance b/w 2 pointers
-        for(int i=1;i<=n;i++)
-            right = right.next;
+        if(head.next == null)
+            return null;
 
-        if (right == null)
-            return head.next;
-            
-        while(right.next!=null)
-        {
-            left = left.next;
-            right = right.next;
+        ListNode s = head;
+        ListNode f = head;
+
+        for(int i=1;i<=n;i++){
+            f = f.next;
         }
-        left.next = left.next.next;
+
+        while(f!= null && f.next != null){
+            s = s.next;
+            f = f.next;
+        }
+
+        if(f == null)
+        return head.next;
+
+        s.next = s.next.next;
+
         return head;
+
+        
     }
 }
