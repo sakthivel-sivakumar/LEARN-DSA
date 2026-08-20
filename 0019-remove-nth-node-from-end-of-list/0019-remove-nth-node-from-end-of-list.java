@@ -27,7 +27,7 @@ class Solution {
         }
 
         if(f == null)
-        return head.next;
+        head = head.next;
 
         s.next = s.next.next;
 
