@@ -12,9 +12,9 @@ class Solution {
     }
     private static void dfs(int node, List<List<Integer>> rooms, boolean[] vis ){
         vis[node] = true;
-        for(Integer it: rooms.get(node)){
-            if(!vis[it]){
-                dfs(it, rooms, vis);
+        for(int next: rooms.get(node)){
+            if(!vis[next]){
+                dfs(next, rooms, vis);
             }
         }
     }
