@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0130-surrounded-regions](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0547-number-of-provinces) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0217-contains-duplicate) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0542-01-matrix) |
 | [0766-toeplitz-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0766-toeplitz-matrix) |
 | [1073-number-of-enclaves](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1073-number-of-enclaves) |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
