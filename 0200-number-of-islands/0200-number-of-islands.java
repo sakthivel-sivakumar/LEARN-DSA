@@ -3,7 +3,7 @@ class Solution {
     static void dfs(char[][] grid, int i, int j, int row, int col) {
 
         // Out of bounds or water
-        if (i < 0 || j < 0 || i >= row || j >= col || grid[i][j] != '1') {
+        if (i < 0 || j < 0 || i >= row || j >= col || grid[i][j] == '0') {
             return;
         }
 
