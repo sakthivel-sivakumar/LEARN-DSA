@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0820-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0994-rotting-oranges) |
 | [1035-cousins-in-binary-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1073-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-bag-of-tokens](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1073-number-of-enclaves](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1073-number-of-enclaves) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0766-toeplitz-matrix) |
+| [0994-rotting-oranges](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1073-number-of-enclaves) |
 | [1572-matrix-diagonal-sum](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2319-check-if-matrix-is-x-matrix) |
