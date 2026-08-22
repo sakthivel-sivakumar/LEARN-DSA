@@ -1,4 +1,14 @@
 class Solution {
+    private static void dfs(int node, List<List<Integer>> rooms, boolean[] vis ){
+        vis[node] = true;
+        for(int next: rooms.get(node)){
+            if(!vis[next]){
+                dfs(next, rooms, vis);
+            }
+        }
+    }
+
+
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
         int n= rooms.size();
         boolean[] vis = new boolean[n];
@@ -8,14 +18,10 @@ class Solution {
             if(!vis[i]) 
                 return false;
         }
+
+      
         return true;
     }
-    private static void dfs(int node, List<List<Integer>> rooms, boolean[] vis ){
-        vis[node] = true;
-        for(int next: rooms.get(node)){
-            if(!vis[next]){
-                dfs(next, rooms, vis);
-            }
-        }
-    }
+    
+    
 }
