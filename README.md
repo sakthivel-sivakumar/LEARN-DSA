@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1073-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1073-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -559,4 +562,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0841-keys-and-rooms](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/sakthivel-sivakumar/LEARN-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 <!---LeetCode Topics End-->
